@@ -21,13 +21,12 @@ Welcome to the **Learning Lab**! This repo serves as my public learning repo for
 ## 📁 Directory Structure
 
 ```
-├── archive/           # Archive folder for completed or inactive projects
+├── _archive/           # Archive folder for completed or inactive projects
 ├── automation/        # 'Automation Weekends' projects and exploration
 ├── experiments/       # Experimental small projects and explorations
 ├── foundations/       # Basic knowledge and core skills
 ├── learning/          # Main learning content
 │   ├── builds/        # Project building practice
-│   ├── concepts/      # Learning notes and concept understanding
 │   ├── drills/        # Skill training and practice(leetcode, hackerrank, etc.)
 │   └── questions/     # Problems and solutions
 ├── outputs/           # Learning outcomes (big projects and passion projects - links to active repos)
