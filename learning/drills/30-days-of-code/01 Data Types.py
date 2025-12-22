@@ -17,7 +17,7 @@ sum_float = d + d_2  # float sum
 # combine the strings
 combine_str = s + s_2  # combined strings
 
-# print the results on their own lines
+# print the results on their own line
 print(sum_int)
 print(sum_float)
 print(combine_str)
