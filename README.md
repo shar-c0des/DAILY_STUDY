@@ -1,78 +1,77 @@
-# Learning Lab: Personal learning system
+<h1 align='center'> Learning Lab: My Practice Space </h1>
+<p align="center">
+  <img src="https://i.pinimg.com/originals/e1/85/18/e18518c6d24257c6fb02e3c95a862d85.gif" width="600" alt="Pastel Hello Kitty Banner" style="border-radius: 8px; margin: 8px 0;" />
+  <br>
+  <em>“Practice even what seems impossible. From practice, the unfamiliar becomes second nature.”</em>
+  <br>
+  — Marcus Aurelius | My structured spot to turn new tech & ideas into skills 
+</p>
 
+Welcome to my Learning Lab! This repo is where I organize, build, and explore engineering skills—from Python automation to AI experiments. It’s part personal growth tracker, part showcase of how I turn "I don’t know this" into "I built this."
 
+## 🎯 Main Goals
+### For My Growth
+- Turn scattered learning into a structured knowledge system
+- Deepen understanding by building (not just reading)
+- Track progress with consistent, actionable practice
+- Turn notes + experiments into usable tools/projects
 
-Welcome to the **Learning Lab**! This repo serves as my public learning repo for systematic learning, building, and exploring various engineering technologies(from automating things with python , building passion projects, exploring AI etc ). This repo is not only a record of my personal growth but also a outlet to  showcase my technical capabilities and learning methodologies as I learn, build and grow.
+### For You (to See)
+- Clear showcase of mastered tech/tools
+- Examples of how I break down complex problems
+- Proof of continuous learning (no stagnation here!)
+- Glimpse of my structured thinking + system design habits
 
-## Main objectives
+## 📂 Directory Structure 
 
-### Personal Growth
-- Organize scattered learning into a structured knowledge system
-- Deepen my understanding and memory through actual project building
-- Establish a trackable learning rhythm and habits
-- Transform my knowledge into capability through notes, summaries, and projects
-
-### Professional Showcase
-- Clearly present mastered technologies and tools
-- Demonstrate how to analyze and solve complex problems
-- Prove continuous learning and adaptation to new technologies
-- Reflect structured thinking and system design capabilities
-
-## 📁 Directory Structure
+```text
+├── _archive/  Completed/inactive projects (still cool, just done!)
+├── automation/  "Automation Weekends"—scripts to make life easier
+├── experiments/  Tiny, messy (but fun) tests of new tech (AI, libraries, etc.)
+├── foundations/ Core skills (Python basics, system design, etc.)
+├── learning/ Main learning hub
+│   ├── builds/ Full project practice (turning ideas into working tools)
+│   ├── libraries/  Deep dives into Python libraries (Pandas, FastAPI, etc.)
+│   ├── drills/  Skill training (LeetCode, HackerRank, etc.)
+│   └── questions/  My problem-solving notes (how I fixed that weird bug)
+├── outputs/  Polished projects (links to active repos—these are the "finished" ones!)
+├── README.md  You’re reading this!
+└── requirements.txt  Dependencies to run any code here
 
 ```
-├── _archive/           # Archive folder for completed or inactive projects
-├── automation/        # 'Automation Weekends' projects and exploration
-├── experiments/       # Experimental small projects and explorations
-├── foundations/       # Basic knowledge and core skills
-├── learning/          # Main learning content
-│   ├── builds/        # Project building practice
-|   ├── Libraries/     #python libraries 
-│   ├── drills/        # Skill training and practice(leetcode, hackerrank, etc.)
-│   └── questions/     # Problems and solutions
-├── outputs/           # Learning outcomes (big projects and passion projects - links to active repos)
-├── README.md          # description document
-└── requirements.txt   # Project dependencies
-```
 
-## 🚀 Quick Start
+## If You Want to Explore
 
-### Environment Setup
-
-1. Clone the repository:
+1. **Clone the repo:**
    ```bash
    git clone https://github.com/shar-c0des/learning-lab.git
    cd learning-lab
-   ```
+2. **Install dependencies:**
+```bash
 
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
+pip install -r requirements.txt
+```
+3. **Dive in:**
+- Start with foundations/ for core skills
+- Mess around with experiments/ for fun tech tests
+- Check outputs/ for my polished projects
+  
+**🔍 Currently Focused On (In This Lab)**
+<p align="center" style="color: #ff8fab; font-size: 16px;">🐍 Mastering <code>FastAPI</code> & backend best practices<br>🏗️ Building a literary prescription system →<a href="https://github.com/shar-c0des/literary-pharmacy" style="color: #ff8fab; text-decoration: underline;">literary-pharmacy repo</a></p>
 
-### Start Learning
+## 🤝 Feedback Welcome!
 
-1. Browse the `learning/` directory and select topics of interest
-2. Start from `foundations/` to build a solid foundation
-3. Conduct skill training through `drills/`
-4. Practice complete projects in `builds/`
+This is my personal space, but I’d love your thoughts (e.g., "This script could be cleaner!" or "Cool experiment!"). To contribute:
 
-
-## 🤝 Contribution
-
-Although this is a personal learning repository, suggestions and feedback are welcome!
-
-1. Fork this repository
-2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## 📞 Contact
-
-- GitHub: https://github.com/shar-c0des
-- Email: ngomakapilesharleen703@gmail.com
+* **Fork** this repo.
+* **Create a branch**: `git checkout -b feature/YourGreatIdea`.
+* **Commit changes**: `git commit -m 'Add [your awesome tweak]'`.
+* **Push** & open a Pull Request!
 
 ---
+<p align="center">
+  <img src="https://i.pinimg.com/originals/54/bd/a3/54bda352b17744efa1f6898040455423.gif" width="600" alt="Pastel Hello Kitty Banner" style="border-radius: 8px; margin: 8px 0;" />
+</p>
 
-**stay curious :) !!**
+
+
