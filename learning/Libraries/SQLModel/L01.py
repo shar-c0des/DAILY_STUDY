@@ -10,7 +10,7 @@ class Hero(SQLModel, table=True):  # class hero is a sql model equivalent to a s
     id: int | None = Field(default=None, primary_key=True)
     name: str = Field(unique=True)
     secret_name: str
-    age: int | None = None
+    age: int | None = None 
 
 
 # creating rows
