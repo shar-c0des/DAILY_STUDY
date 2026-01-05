@@ -1,25 +1,38 @@
+
 class Node:
   def __init__(self,data):
     self.data = data 
     self.next = None
 
-class Soution:
+class Solution:
   def display(self,head):
     current = head
     while current:
-      print(current.data,end=''_
+      print(current.data,end=' ')
       current = current.next 
 
   def insert(self,head,data):
 
+    new_node = Node(data)
+    # case 1 : create a empty linked list
+    if head is None:
+      return new_node
 
 
-  mylist = Solution()
-  T = int(input())
-  head = None
-  for i in range(T):
-    data = int(input())
-    head=mylist.insert(head,data)
+    current = head
+    while current.next is not None:
+      current = current.next
+
+    current.next = new_node
+
+    return head
+
+mylist = Solution()
+T = int(input())
+head = None
+for i in range(T):
+  data = int(input())
+  head=mylist.insert(head,data)
   mylist.display(head)
   
 
