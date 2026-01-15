@@ -1,0 +1,46 @@
+#include <iostream>
+#include <vector>
+
+template <typename T>
+void printArray(std::vector<T> arr) {
+    for (const T& element : arr) {
+        std::cout << element << std::endl;
+    }
+}
+
+int main() {
+    std::vector<int> intVector = {1, 2, 3};
+    std::vector<std::string> stringVector = {"Hello", "World"};
+
+    printArray(intVector);
+    printArray(stringVector);
+
+    return 0;
+}
+
+
+
+int main() {
+	int n;
+	
+	cin >> n;
+	vector<int> int_vector(n);
+	for (int i = 0; i < n; i++) {
+		int value;
+		cin >> value;
+		int_vector[i] = value;
+	}
+	
+	cin >> n;
+	vector<string> string_vector(n);
+	for (int i = 0; i < n; i++) {
+		string value;
+		cin >> value;
+		string_vector[i] = value;
+	}
+
+	printArray<int>(int_vector);
+	printArray<string>(string_vector);
+
+	return 0;
+}
