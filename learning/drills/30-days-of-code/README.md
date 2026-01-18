@@ -36,8 +36,8 @@
 | 24 | Linked Lists (Remove Duplicates) | [Link](./Day24_LinkedListsRemoveDuplicates.py) | ● |
 | 25 | Primality Test (Time Complexity) | [Link](./Day25_PrimalityTest.py) | ● |
 | 26 | Nested Logic | [Link](./Day26_NestedLogic.py) | ● |
-| 27 | Testing | [Link](./Day27_Testing.py) | ○ |
-| 28 | RegEx, Patterns, Intro to DB | [Link](./Day28_RegexDatabase.py) | ○ |
+| 27 | Testing | [Link](./Day27_Testing.py) | ● |
+| 28 | RegEx, Patterns, Intro to DB | [Link](./Day28_RegexDatabase.py) | ● |
 | 29 | Bitwise AND | [Link](./Day29_BitwiseAND.py) | ○ |
 
 
